@@ -25,7 +25,7 @@ Minimum = (abs(abs(min - Min)  - (min + Min)) // 2)
 
 mid = num + num1 + num2 - min - max
 
-print()
+
 print(Minimum)
 print(mid)
 print(Maximum)
